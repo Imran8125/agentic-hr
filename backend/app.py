@@ -18,7 +18,7 @@ from datetime import datetime, timedelta
 from googleapiclient.discovery import build as gcal_build
 
 # --- Configuration ---
-GOOGLE_API_KEY = "AIzaSyDd2r_suN_CtD355-CMckFvLRgiS1yrOQQ"
+GOOGLE_API_KEY = ""
 if not GOOGLE_API_KEY:
     raise ValueError("Please set the GOOGLE_API_KEY environment variable.")
 
