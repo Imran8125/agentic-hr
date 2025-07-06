@@ -1,0 +1,14 @@
+Job Title: Junior Python Developer
+
+Description:
+We are seeking a Junior Python Developer to join our backend team. The ideal candidate will have experience building REST APIs, working with databases, and collaborating in an agile environment.
+
+Responsibilities:
+- Develop and maintain backend services using Python and Flask
+- Optimize code for performance and scalability
+- Work closely with frontend developers and participate in code reviews
+
+Requirements:
+- 1+ years of experience with Python
+- Familiarity with Flask and SQL
+- Good communication and teamwork skills
